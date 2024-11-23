@@ -1,0 +1,45 @@
+?How is the solar constant calculated?
+- By multiplying the intensity by the air mass
+- By calculating the total energy emitted by the Sun
++ By measuring the energy passing through a 1 cm² surface and correcting for absorption by the Earth's atmosphere 
+- By calculating the total energy absorbed by the Earth
+?What is the air mass in the context of solar radiation measurements?
+- The density of solar radiation
++ The ratio of the optical thickness of the air layer in a certain direction to its optical thickness in the zenith direction (correct)
+- The total amount of energy absorbed by the Earth's atmosphere
+- The total energy received by the Earth
+?What is the role of satellites in determining the solar constant?
+- They measure the total energy emitted by the Sun
+- They measure the solar energy absorbed by the Earth's atmosphere
++ They measure the radiation energy in the ultraviolet and infrared regions of the Sun's spectrum
+- They calculate the temperature of the Sun
+?What is used to determine the radiation intensity of the Sun in the ultraviolet and infrared regions?
++ Satellites and instruments released from the Earth's atmosphere 
+- Ground-based pyrheliometers
+- Spectrobolometers
+- Thermometers in space
+?How is the total energy of the Sun found?
+- By adding the solar constant to the amount of energy absorbed by the Earth's atmosphere
+- By calculating the total energy emitted by the Sun at all wavelengths
++ By multiplying the solar constant by the surface area of a sphere with a radius of 1 astronomical unit 
+- By measuring the total solar energy reflected by the Earth
+?What is the main reason why the energy radiated by the Sun is important for life on Earth?
+- It regulates the Earth's orbit
+- It drives the Earth's weather system
++ It provides the energy required for photosynthesis in plants
+- It maintains the Earth's magnetic field
+?What does the Sun's radiation spectrum include?
++ Ultraviolet, visible, and infrared radiation 
+- Only ultraviolet and visible radiation
+- Only visible and infrared radiation
+- Only infrared radiation
+?What is the Sun's total energy output per second, known as the luminosity?
++ 4×10^26 W 
+- 4×10^23 W
+- 4×10^30 W
+- 4×10^20 W
+?How do the temperature and pressure at the Sun's core affect nuclear fusion?
+- They determine the rate at which hydrogen is consumed
++ They provide the necessary conditions for nuclear fusion to occur 
+- They affect the Sun's radiation intensity
+- They influence the Sun's rotation rate

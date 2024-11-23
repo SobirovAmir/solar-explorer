@@ -1,0 +1,50 @@
+?What is the role of neutrinos in the Sun's thermonuclear reactions?
+- They are responsible for the Sun's luminosity
++ They are produced as a result of fusion reactions in the Sun and escape freely from the Sun (correct)
+- They determine the temperature of the Sun's core
+- They interact strongly with matter in the Sun
+?What is the solar neutrino flux on Earth?
+- 1.8×1038 neutrinos per second
+- 2 neutrinos per 1×3.85×1020 MW
++ About 1011 neutrinos per second per cm² (correct)
+- 1×10^20 neutrinos per second per cm²
+?Which detectors are used to record solar neutrinos?
+- Ground-based telescopes
++ Detectors that capture neutrinos by certain atomic nuclei like Cl, Ga, and using Cherenkov radiation (correct)
+- X-ray telescopes
+- Spectrometers
+?What is the reaction used in the chlorine-argon experiment to capture neutrinos?
++ 37Cl(n, e-)37Ar (correct)
+- 71Ga(n, e-)71Ge
+- 1H(p, e+n)2D
+- 13N(e+n)13C
+?What is the energy threshold for neutrino absorption in the chlorine detector?
+- 0.814 MeV (correct)
+- 0.233 MeV
+- 7.5 MeV
+- 0.420 MeV
+?What is the purpose of using perchlorethylene (C2Cl4) in the chlorine-argon experiment?
+- To capture neutrons
++ To absorb neutrinos and form the radioactive isotope 37Ar (correct)
+- To detect gamma radiation
+- To measure the temperature inside the detector
+?What is the solar neutrino flux measured in the chlorine-argon experiment?
+- 8.0 SNU
++ 2.55 SNU (correct)
+- 132 SNU
+- 73 SNU
+?What reaction is used in the gallium experiment to capture solar neutrinos?
+- 37Cl(n, e-)37Ar
++ 71Ga(n, e-)71Ge (correct)
+- 1H(p, e+n)2D
+- 13N(e+n)13C
+?What was the measured flux of solar neutrinos in the SAGE experiment?
++ 73±19 SNU (correct)
+- 132±7 SNU
+- 2.55±0.25 SNU
+- 79±12 SNU
+?What was the main issue with the results of the solar neutrino experiments in the late 20th century?
+- Lack of solar radiation models
++ Discrepancies in the data from different experiments (correct)
+- Inability to detect neutrinos
+- Incorrect assumptions about solar temperature

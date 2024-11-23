@@ -1,0 +1,50 @@
+?What is solar physics?
+- A branch of biology
+- A branch of astrophysics
++ A branch of astrophysics that studies the Sun
+- A field of chemistry
+?What is the primary focus of solar physics?
+- The study of planets
++ The study of the Sun
+- The study of black holes
+- The study of galaxies
+?Which ancient civilization recorded solar eclipses?
+- The Romans
++ The Babylonians
+- The Greeks
+- The Egyptians
+?Who was the Iranian astronomer who built an observatory near Tehran?
+- Ibn al-Haytham
+- Al-Battani
++ Abu Mahmoud Khojandi
+- Al-Farabi
+?What major discovery did Galileo make in 1610?
+- The discovery of the first telescope
+- The discovery of the heliocentric model
++ The discovery of sunspots on the Sun
+- The discovery of Jupiter's moons
+?What is the primary cause of solar flares and coronal mass ejections?
+- Gravitational forces
+- Nuclear fusion in the Sun's core
++ Magnetic activity on the Sun's surface
+- Cosmic rays from other stars
+?What is the Sun's corona?
+- The Sun's core
++ The Sun's outer atmosphere
+- The Sun's surface
+- The Sun's mantle
+?What is the "sunspot cycle"?
+- A cycle of solar eclipses
++ A cycle in which the number of sunspots on the Sun increases and decreases over 11 years
+- A cycle in which the Sun's core temperature changes
+- A cycle in which the Earth experiences solar flares
+?Why is solar physics important for understanding climate change?
+- The Sun does not affect Earth's climate
+- The Sun only influences the Moon
++ Changes in the solar atmosphere can affect Earth's climate
+- Solar physics has no relation to climate change
+?What problem in solar physics is related to neutrinos?
+- The discovery of new sunspots
+- The increase in solar flares
++ The missing neutrinos from the Sun's core
+- The Sun's cooling rate

@@ -1,0 +1,85 @@
+?What was the early theory of the origin of sunspots based on?
++ Adiabatic cooling of gas in the light equilibrium region
+- Magnetic field suppression
+- Heat energy convection
+- Hydrogen convective zone
+?Who proposed the theory of sunspot origin based on adiabatic cooling in 1921?
+- Birman
++ Ressel
+- Rosseland
+- Hale
+?What difficulty arose for the theory of adiabatic cooling after the discovery of the hydrogen convective zone?
++ It conflicted with the convective processes in the Sun's surface layer.
+- It could not explain the formation of solar flares.
+- It underestimated the strength of the Sun's magnetic field.
+- It failed to account for sunspot temperature variations.
+?What did Birman propose in 1941 about the origin of sunspots?
++ Magnetic field convection slows down energy flow, causing cooling.
+- Sunspots form due to massive explosions on the Sun's surface.
+- Convection energy rises along the magnetic field lines.
+- Sunspots are created by solar wind disturbances.
+?What observation undermined Birman's theory?
+- The granules in the sunspot's core resembled those in the photosphere.
++ Granule cells were observed in the shadow part of the spots.
+- The magnetic field lines were not aligned with the Sun's surface.
+- Sunspots were found to emit more radiation than expected.
+?What is the basis of Hale's hypothesis on sunspot formation?
+- Magnetic field lines direct energy flow in sunspots, causing cooling.
++ Convection energy rises along magnetic field lines, cooling over a large area.
+- Heat energy is trapped below the Sun's surface, causing sunspot formation.
+- Solar radiation forms a barrier, reducing sunspot temperature.
+?What is the modern understanding of sunspot cooling?
++ Magnetic field partially inhibits convection, reducing energy transfer to the surface.
+- Solar flares suppress convection, leading to sunspot formation.
+- Sunspots are purely caused by energy fluctuations in the photosphere.
+- The Sun's rotation contributes to cooling in sunspot areas.
+?What type of spectrum do sunspots have?
++ Absorption spectrum, like the photosphere
+- Emission spectrum
+- Continuous spectrum
+- X-ray spectrum
+?In the spectrum of sunspots, what happens to spectral lines with a small awakening potential?
+- They decrease in intensity.
++ They increase in intensity compared to the photosphere.
+- They remain unchanged.
+- They completely disappear.
+?How are spectral lines in the sunspot spectrum different from those of the quiescent photosphere?
++ They shift to the red or violet side, indicating motion.
+- They are sharper and more defined.
+- They remain the same but become brighter.
+- They completely disappear in the spot area.
+?What does a positive shift in the spectral line wavelength indicate?
++ The plasma mass moves away from the observer.
+- The plasma mass moves towards the observer.
+- The plasma remains stationary.
+- The plasma is in the same position relative to the observer.
+?What is the Zeeman effect observed in the spectrum of sunspots?
+- Spectral lines split due to varying temperatures in the sunspot.
++ Spectral lines split into components due to the magnetic field.
+- Spectral lines change color depending on the Sun's position.
+- Spectral lines show no shift or splitting.
+?How many components can the spectral line split into in the presence of a strong magnetic field in the sunspot's nucleus?
+- One
++ Two or three components
+- Four
+- No splitting occurs.
+?If the magnetic field strength vector is in the same direction as the line of sight, how many components does the spectral line split into?
++ Two components, rotationally polarized
+- Three components, linearly polarized
+- One component, unpolarized
+- No splitting occurs.
+?How does the intensity of the components behave when the magnetic field strength vector is aligned with the line of sight?
++ The intensity of the components is proportional to each other.
+- The intensity of one component is much higher than the other.
+- The components have no intensity relationship.
+- The components are completely polarized.
+?What happens when the magnetic field strength vector is at a 90° angle to the line of sight?
++ The spectral line splits into three components, linearly polarized.
+- The spectral line disappears completely.
+- The spectral line remains unaltered.
+- The intensity of the components becomes unpredictable.
+?What is the polarization state of the components when the magnetic field forms an angle of 90° with the line of sight?
+- Unpolarized
++ Linearly polarized
+- Radially polarized
+- Circularly polarized

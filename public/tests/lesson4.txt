@@ -1,0 +1,50 @@
+?What is the first condition of equilibrium within the Sun?
+- The total energy emitted by the Sun
++ Hydrostatic equilibrium, where gravitational and pressure forces are balanced 
+- The conservation of energy in the Sun
+- The temperature gradient within the Sun
+?What does the mass distribution equation describe in the Sun's structure?
+- The total amount of energy emitted by the Sun
++ The mass within a given radius from the center of the Sun 
+- The rate of energy dissipation in the Sun
+- The temperature profile of the Sun
+?What is the main factor that determines the energy dissipation in the Sun?
+- The energy absorbed by the Earth's atmosphere
+- The total energy radiated by the Sun's surface
++ The energy released in the Sun's core, which then reaches the surface
+- The heat generated in the outer layers of the Sun
+?How is the temperature gradient within the Sun determined?
+- By calculating the mass distribution and energy flow
+- By measuring the solar constant
++ By considering the form of energy transfer (convection, conduction, or radiation)
+- By observing the Sun's surface temperature
+?What is the role of radiative transfer in the Sun's energy movement?
+- It causes convection currents to form
++ It transfers energy from the core of the Sun to the outer layers via radiation
+- It mixes the material of the Sun's core
+- It prevents the Sun from losing energy
+?What does the radiative temperature gradient depend on?
+- The temperature at the surface of the Sun
++ The energy flow, radiation constant, and absorption coefficient 
+- The temperature of the outer layers
+- The chemical composition of the Sun's core
+?What happens when light migration becomes inefficient in the Sun's interior?
+- The energy is radiated outward more efficiently
++ More effective energy-releasing actions such as convection take over 
+- The temperature gradient becomes steeper
+- The Sun's core cools down
+?What is the adiabatic equation of state used for in the Sun's structure?
+- To calculate the mass distribution in the Sun
+- To determine the energy flow in the Sun's core
++ To describe the temperature and pressure of rising gas in convective movements 
+- To measure the radiation from the Sun's surface
+?What does the convective temperature gradient depend on?
+- The distance from the Sun's center
+- The radiation flux in the outer layers
++ The adiabatic exponent and the temperature, density, and chemical composition of the gas 
+- The energy released from the Sun's core
+?What is the purpose of boundary conditions in the Sun's equilibrium equations?
+- To calculate the energy released in the Sun's core
++ To properly define the conditions for solving the differential equations, such as temperature and pressure at the surface (correct)
+- To determine the temperature gradient in the Sun's core
+- To calculate the Sun's mass and radius

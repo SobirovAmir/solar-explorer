@@ -1,0 +1,82 @@
+?What are the three main layers of the Sun's atmosphere?
+- Photosphere, Chromosphere, and Exosphere
+- Photosphere, Corona, and Convective Zone
++ Photosphere, Chromosphere, and Corona
+- Convective Zone, Radiation Zone, and Core
+?What is the field where nuclear reactions take place in the Sun?
++ The field of nuclear reactions (Core)
+- The radiation field
+- The convective field
+- The photospheric field
+?Which part of the Sun is responsible for energy transport by radiation?
+- The field of nuclear reactions
++ The radiation field
+- The convective field
+- The photosphere
+?What is the main characteristic of the Sun's convective field?
+- Energy is transported by radiation
++ Energy is mainly transported by convection
+- No energy transport occurs
+- Energy is transported by magnetic fields
+?What can be observed in the Sun's photosphere?
+- Solar flares and sunspots only
++ Granulation, flares, and sunspots
+- Only sunspots
+- Only granulation
+?What did Jansen and Gansky first study about the Sun?
+- Solar magnetic fields
++ Solar granulation
+- Solar flares
+- Sunspots
+?What is the size range of granulation cells observed in the Sun's photosphere?
++ 300 km to 1000 km
+- 100 km to 500 km
+- 500 km to 1500 km
+- 150 km to 700 km
+?How long does a typical granule in the photosphere live?
+- 3-4 minutes
++ 6-7 minutes
+- 10-12 minutes
+- 15-20 minutes
+?What did the "Stratoscope-2" solar station reveal about granules?
++ Granules are convective cells with increased gas flow in the center
+- Granules are regions of constant temperature
+- Granules are areas of magnetic field concentration
+- Granules have no gas flow
+?What is the primary feature of sunspots in relation to the Sun's photosphere?
+- They are areas of high temperature
++ They are affected by the Sun's magnetic field
+- They are always visible at the center of the Sun's disk
+- They are permanent and unchanging
+?How do solar flares compare to the Sun's photosphere in terms of brightness?
+- Flares are 5-10% brighter
++ Flares are 10-20% brighter
+- Flares are 50% brighter
+- Flares are dimmer
+?Where can solar flares be observed?
+- In the center of the Sun's disk
++ Near the edges of the Sun's visible disk
+- Only at the poles of the Sun
+- Only during solar eclipses
+?What is the magnetic field strength of solar flares?
+- 10-20 ersted
++ 50-100 ersted
+- 100-200 ersted
+- 200-500 ersted
+?What is one of the most problematic objects in the photosphere of the Sun?
++ Sunspots
+- Solar flares
+- Granules
+- Corona mass ejections
+?The Sun's convective field is responsible for energy transport through convection.
++ True
+- False
+?Granulation in the Sun's photosphere appears as a uniform surface.
+- True
++ False
+?Solar flares can only be observed at the center of the Sun's visible disk.
+- True
++ False
+?The photosphere of the Sun is about 300 kilometers thick.
++ True
+- False

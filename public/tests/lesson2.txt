@@ -1,0 +1,65 @@
+?What is the closest star to the Earth?
+- Proxima Centauri
+- The Sun
++ Sirius
+- Vega
+?What is the spectral class of the Sun?
+- G2V
+- K2V
++ M5 
+- A1V
+?What is the apparent diameter of the Sun when Earth is at its farthest distance from the Sun?
+- 32′00''
+- 31′00''
++ 32′35'' 
+- 31′15''
+?What is the average distance from the Earth to the Sun?
+- 1.496 × 10^8 km
+- 1.096 × 10^8 km
++ 1.496 × 10^8 km 
+- 1.296 × 10^8 km
+?What is the mass of the Sun?
+- 1.989 × 10^30 kg
++ 2 × 10^33 kg 
+- 3.5 × 10^32 kg
+- 1.5 × 10^30 kg
+?Which element makes up the majority of the Sun's mass?
+- Helium
++ Hydrogen 
+- Oxygen
+- Iron
+?What is the main component of the Sun's photosphere by mass?
+- Oxygen
+- Silicon
++ Hydrogen 
+- Nitrogen
+?What is the temperature of the Sun's photosphere?
+- ~10^7 K
++ 5,778 K
+- ~10^6 K
+- ~3 × 10^6 K
+?Which element contributes 24.85% by mass in the Sun's photosphere?
+- Hydrogen
++ Helium
+- Oxygen
+- Iron
+?What is the Sun's spectral line at 6563 Å?
+- D1 line
++ Hα line
+- Hβ line
+- K line
+?What is the highest intensity in the solar spectrum?
+- 3900-4500 Å
++ 4300-5000 Å 
+- 5000-6000 Å
+- 6000-6900 Å
+?What is the primary cause of absorption lines in the solar spectrum?
+- Sun's photosphere
+- Solar corona
++ Earth's atmosphere
+- Solar wind
+?At which wavelength does the Sun's radiation intensity sharply decrease in the ultraviolet region?
+- 5 μm
++ 15 μm (correct)
+- 1 cm
+- 1 nm

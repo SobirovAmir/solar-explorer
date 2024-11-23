@@ -1,0 +1,195 @@
+/* Контейнер для страницы лекции */
+.lesson-page-container {
+  background: url("../public/space-galaxy.png") no-repeat center center/cover !important;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  color: #fff;
+  animation: fadeInLessonPage 1s ease-out forwards;
+  overflow: auto;
+  height: calc(100vh - 50px);
+}
+
+/* Анимация для загрузки страницы */
+@keyframes fadeInLessonPage {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/* Кнопка назад */
+.back-button-lesson {
+  background: #f39c12;
+  color: white;
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.3s ease;
+  margin-bottom: 10px;
+}
+
+.back-button-lesson:hover {
+  background: #e67e22;
+  transform: translateY(-3px);
+}
+
+/* Лоадер */
+.lesson-loader {
+  font-size: 1.5rem;
+  color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  background: rgba(0, 0, 0, 0.5);
+  animation: blinkLoader 1s infinite;
+}
+
+@keyframes blinkLoader {
+  0%,
+  50% {
+    opacity: 1;
+  }
+  50.1%,
+  100% {
+    opacity: 0;
+  }
+}
+
+/* Стили для текста лекции */
+.lesson-text-content {
+  max-width: 800px;
+  margin: 0 auto;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  animation: fadeInContentLesson 1s ease-out;
+  line-height: 1.8;
+  position: relative; /* Чтобы позиционировать кнопку относительно этого блока */
+}
+
+/* Кнопка "Назад" */
+.back-button {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background-color: rgba(52, 152, 219, 0.8); /* Цвет кнопки */
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.back-button:hover {
+  background-color: rgba(52, 152, 219, 1); /* Темнее при наведении */
+}
+
+.back-button svg {
+  margin-right: 8px;
+}
+
+/* Анимация для появления контента */
+@keyframes fadeInContentLesson {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.lesson-text-content h1,
+.lesson-text-content h2,
+.lesson-text-content h3 {
+  color: #f39c12;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  margin-top: 0;
+}
+
+.lesson-text-content p {
+  color: #bdc3c7;
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+  text-align: justify; /* Выравнивание текста по ширине */
+  text-indent: 30px; /* Отступ для первого абзаца */
+  line-height: 1.8;
+}
+
+.lesson-text-content ul,
+.lesson-text-content ol {
+  margin-left: 40px;
+  margin-bottom: 20px;
+}
+
+.lesson-text-content li {
+  color: #bdc3c7;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+/* Для каждого абзаца после первого добавляем отступ сверху */
+.lesson-text-content p + p {
+  margin-top: 20px;
+}
+
+/* Стили для заголовков */
+.lesson-text-content h1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.lesson-text-content h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+.lesson-text-content h3 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+/* Вставка изображений */
+.lesson-text-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
+
+/* Вставка таблиц */
+.lesson-text-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+.lesson-text-content th,
+.lesson-text-content td {
+  border: 1px solid #f39c12;
+  padding: 10px;
+  text-align: left;
+}
+
+.lesson-text-content th {
+  background-color: #f39c12;
+  color: white;
+}

@@ -1,0 +1,111 @@
+?What is the central part of a sunspot called?
+- Penumbra
++ Nucleus (or shadow)
+- Granulation
+- Photosphere
+?What is the surrounding area of the sunspot's nucleus called?
++ Penumbra
+- Corona
+- Granulation
+- Core
+?What is the strength of the magnetic field in sunspots?
+- 500-1000 ersted
++ 4000-4500 ersted
+- 1000-1500 ersted
+- 10000-12000 ersted
+?Why do sunspots appear as black objects in the photosphere?
+- They are at a higher temperature than the surrounding areas.
++ They are 1000-1500º K cooler than the surrounding areas.
+- They are composed of gases that absorb light.
+- They are shadowed by the Sun's corona.
+?Who was the first to observe sunspots through a telescope?
++ Galileo in 1609
+- Jansen and Gansky
+- P. Gorribov
+- G. Spörer
+?What is the term for the appearance of small dots between the granules on the Sun?
++ Bribe
+- Flare
+- Pore
+- Spot
+?What type of spots are observed in groups, with one spot having a north magnetic pole and the other a south magnetic pole?
+- Pores
++ Sunspot groups
+- Granules
+- Flares
+?What is the name of the law that describes how sunspots appear closer to the equator during periods of solar activity?
+- Gorribov's law
++ Spörer's law (or Maunder's butterfly)
+- Wolff's law
+- Carrington's law
+?What is the typical size range of sunspots?
++ From several thousand kilometers to several hundred thousand kilometers
+- 1000-10000 kilometers
+- 10,000-50,000 kilometers
+- 500-1000 kilometers
+
+?What is the diameter of the largest observed sunspot, which was 28 times larger than the Earth's diameter?
++ 230,000 kilometers
+- 50,000 kilometers
+- 100,000 kilometers
+- 500,000 kilometers
+?What phenomenon was discovered by J. Evershed in the penumbra of sunspots?
+- Solar wind
+- Magnetic fields
++ Evershed effect (outflow of gas mass)
+- Sunspot migration
+?What is the average speed of gas mass outflow in the penumbra of sunspots?
++ 2 kilometers per second
+- 5 kilometers per second
+- 10 kilometers per second
+- 0.5 kilometers per second
+?In the study of the penumbra, what direction do the dark fibers lie in?
++ The direction of the radius of the sunspot
+- The direction of the Sun’s equator
+- The direction of the solar wind
+- Perpendicular to the radius of the sunspot
+?What is the role of light fibers in the penumbra of sunspots?
+- They participate in the gas outflow.
++ They do not participate in the gas outflow.
+- They block the flow of gas.
+- They accelerate the gas flow.
+?How long can the largest sunspots last?
+- A few days
+- Several hours
++ Several months
+- A few minutes
+?What is the main feature of sunspots during the period of minimum solar activity?
++ They form at latitudes around 45º heliographic latitudes.
+- They form at the Sun's poles.
+- They form near the Sun's equator.
+- They disappear completely.
+?What was the purpose of the formula used by R. Wolff to calculate the number of sunspots?
+- To calculate solar wind intensity
++ To calculate the number of daily sunspots
+- To predict solar flares
+- To study the Sun's magnetic field
+?The number of sunspots varies over time with a period of approximately:
++ 11.1 years
+- 8.5 years
+- 5 years
+- 15 years
+?The magnetic field of sunspots can vary, but it always maintains the same polarity throughout the spot group.
+- True
++ False
+?Sunspots are typically observed to be isolated objects on the Sun.
+- True
++ False
+?Sunspots are always found at latitudes greater than 40º on the Sun's surface.
+- True
++ False
+?How does the temperature of sunspots compare to the surrounding photosphere?
++ Sunspots are cooler by 1000-1500º K than the surrounding areas.
+- Sunspots are hotter by 1000-1500º K than the surrounding areas.
+- Sunspots have the same temperature as the surrounding areas.
+- Sunspots are significantly hotter than the surrounding areas.
+?What is the purpose of spectral analysis in studying the movement of gas in sunspot penumbra?
++ To identify the gas flow and movement along fibers
+- To measure the temperature of the Sun's core
+- To study solar flares and eruptions
+- To analyze the Sun's magnetic field
+

@@ -1,0 +1,131 @@
+/* Общие стили для страницы материалов */
+.materials-container {
+  color: #fff;
+  padding: 50px 20px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  animation: fadeIn .1s ease-in-out forwards;
+  background-color: hsla(212, 59%, 11%, 0.7);
+}
+
+.title {
+  font-size: 3rem;
+  font-family: "Roboto", sans-serif;
+  color: #f39c12;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  margin-bottom: 40px;
+  animation: slideIn 0.5s ease-out;
+}
+
+/* Эффект для заголовка */
+@keyframes slideIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Сетка для карточек */
+.lessons-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+  max-width: 1200px;
+  width: 100%;
+  padding: 0 20px;
+}
+
+/* Карточка */
+.lesson-card {
+  background: linear-gradient(45deg, #2e3b4e, #1a2a3c);
+  border-radius: 15px;
+
+  padding: 10px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.4);
+  transition: transform 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease;
+  opacity: 0;
+  transform: translateY(50px);
+  animation: fadeInCard 0.5s ease-out forwards;
+}
+
+@keyframes fadeInCard {
+  0% {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Эффект при наведении на карточку */
+.lesson-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.6);
+  filter: brightness(1.1);
+}
+
+/* Ссылка на карточке */
+.lesson-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Контент внутри карточки */
+.lesson-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.lesson-content h2 {
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+  font-family: "Roboto", sans-serif;
+  color: #f39c12;
+  transition: color 0.3s ease;
+}
+
+.lesson-content p {
+  font-size: 1rem;
+  color: #bdc3c7;
+  font-family: "Roboto", sans-serif;
+  flex-grow: 1;
+}
+
+.lesson-content:hover h2 {
+  color: #f1c40f;
+}
+
+/* Добавим плавный фон для страницы */
+.materials-container {
+  background-attachment: fixed;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  animation: fadeIn 2s ease-out forwards;
+}
+
+/* Эффект для плавного фона */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

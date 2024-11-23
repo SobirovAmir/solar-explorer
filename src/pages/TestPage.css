@@ -1,0 +1,88 @@
+/* Общий контейнер страницы тестов */
+.testspage {
+  padding: 20px;
+  text-align: center;
+  background-color: hsla(212, 59%, 11%, 0.7);
+  height: calc(100vh - 50px);
+  overflow-y: auto;
+  /*background-image: url(./public/bg.jpg);*/
+  color: white;
+}
+.testspage h1 {
+  margin-bottom: 10px;
+}
+.testspage-loader,
+.testspage-results {
+  height: calc(100vh - 50px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: white !important;
+  background: hsla(0, 0%, 0%, 0.5);
+}
+.testspage-loader {
+  font-size: 24px;
+}
+.testspage-results {
+  color: white;
+}
+.testspage-results h2 {
+  font-size: 45px;
+}
+.testspage-results p {
+  font-size: 30px;
+}
+/* Вопросы */
+.testspage-question {
+  background-color: #1c2e4a;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+label {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  gap: 10px;
+}
+
+input[type="radio"] {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+/* Кнопки */
+.testspage-back-button {
+  position: absolute;
+  left: 20px;
+  top: 60px;
+}
+.testspage-back-button,
+.testspage-finish-button {
+  background-color: #00aaff;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.testspage-back-button:hover,
+.testspage-finish-button:hover {
+  background-color: #0077cc;
+}

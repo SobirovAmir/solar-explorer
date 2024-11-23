@@ -1,0 +1,41 @@
+
+?Which instrument is used to measure the total energy of the Sun falling on the surface at a certain time?
++ Pyrheliometer (correct)
+- Spectrobolometer
+- Thermometer
+- Pyranometer
+?Which instrument is used to measure the solar energy absorbed by the Earth's atmosphere?
+- Pyrheliometer
++ Spectrobolometer (correct)
+- Thermometer
+- Barometer
+?How does the spectrobolometer measure the radiation intensity?
+- By measuring the energy in the infrared spectrum
+- By calculating the total energy from all wavelengths
++ By drawing a graph that characterizes the relationship of the radiation intensity of each wavelength to the air mass (correct)
+- By measuring the temperature of the solar radiation
+?What is the "air mass" in the context of solar radiation measurements?
+- The total amount of solar energy absorbed by the Earth's atmosphere
++ The quantity measured by the ratio of the optical thickness of the air layer in a certain direction to its optical thickness in the zenith direction (correct)
+- The intensity of radiation absorbed by the Earth's atmosphere
+- The total radiation emitted by the Sun
+?What additional information is used to calculate the solar constant?
+- The total energy absorbed by the Earth's atmosphere
++ The distribution of energy in the solar spectrum determined by the spectrobolometer (correct)
+- The energy emitted by the Sun in ultraviolet radiation only
+- The temperature of the Sun's surface
+?How is the solar constant measured?
+- By comparing it to the energy reflected by the Earth
+- By calculating the solar energy reflected by the Earth's atmosphere
++ By making hundreds of observations and calculations using a pyrheliometer and spectrobolometer (correct)
+- By measuring the temperature on the Earth's surface
+?What role do satellites play in measuring the solar constant?
+- They measure the total solar energy reflected by the Earth
++ They measure the radiation energy in the ultraviolet and infrared regions of the Sun's spectrum (correct)
+- They calculate the Sun's surface temperature
+- They measure the solar constant at ground level
+?How is the total energy of the Sun determined?
+- By adding the solar constant and the amount of energy absorbed by the Earth's atmosphere
++ By multiplying the solar constant by the surface area of a sphere with a radius of 1 astronomical unit (correct)
+- By calculating the total energy emitted in the infrared spectrum
+- By measuring the total energy received on Earth's surface

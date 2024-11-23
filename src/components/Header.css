@@ -1,0 +1,78 @@
+/* General Styles */
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0 10px;
+	height: 50px;
+	background: linear-gradient(90deg, #000428, #004e92); /* Space-themed gradient */
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+	border-bottom: 1px solid #00aaff;
+ }
+ 
+ /* Logo Styles */
+ .logo-container {
+	display: flex;
+
+	align-items: center;
+ }
+.logo {
+	display: flex;
+	align-items: center;
+	text-decoration: none;
+	list-style: none;
+	background: none;
+}
+ .logo img {
+	width: 50px;
+	height: 50px;
+	margin-right: 10px;
+ }
+ 
+ .logo-text {
+	font-size: 1.5rem;
+	color: #ffffff;
+	font-weight: bold;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+
+ }
+ 
+ /* Navigation Styles */
+ .nav {
+	display: flex;
+	gap: 1.5rem;
+ }
+ 
+ .nav-link {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1rem;
+	font-weight: 500;
+	transition: color 0.3s ease, transform 0.3s ease;
+	padding: 0.5rem 1rem;
+	border-radius: 8px;
+ }
+ 
+ .nav-link:hover {
+	color: #00aaff;
+	transform: translateY(-3px);
+ }
+ 
+ /* Active Link Style */
+ .active-link {
+	color: #00aaff;
+	border-bottom: 2px solid #00aaff;
+ }
+ 
+ /* Responsive Design */
+ @media (max-width: 768px) {
+	.nav {
+	  flex-direction: column;
+	  align-items: center;
+	}
+	.nav-link {
+	  padding: 0.5rem;
+	}
+ }
+ 
